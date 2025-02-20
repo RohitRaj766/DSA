@@ -1,3 +1,5 @@
+// n to 1 backtracking 
+
 public class Question4{
 
 	public static void main(String args[]){
